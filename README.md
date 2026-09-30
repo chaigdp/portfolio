@@ -10,7 +10,7 @@ Sou Chaiane de Paula, a Chai. Este espaço apresenta quatro produtos em desenvol
 | --- | --- | --- |
 | [CXIP](projetos/CXIP.md) | Visualizar e governar a jornada conversacional | Mapa interativo, mensagens vinculadas, histórico e registros persistentes |
 | [Nexora](projetos/NEXORA.md) | Acompanhar implantações e suas pendências | Carteira de clientes, entregas, dependências e indicadores |
-| [Chai](projetos/CHAI.md) | Orientar clientes e organizar pedidos de suporte | Assistente local em Python com abertura de chamados |
+| [chAI](projetos/CHAI.md) | Orientar clientes e organizar pedidos de suporte | Assistente local em Python com abertura de chamados |
 | [Orbytta](projetos/ORBYTTA.md) | Conectar a gestão da implantação à operação do cliente | Administração, acompanhamento, chamados e demonstração de operação |
 
 ## Meu foco
