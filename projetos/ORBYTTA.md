@@ -2,6 +2,12 @@
 
 [Voltar ao portfólio](../README.md)
 
+## Tela inicial
+
+![Tela inicial do Orbytta](../assets/orbytta-inicio.jpg)
+
+Captura da interface atual em ambiente local de demonstração.
+
 ## Problema
 A equipe que implanta sistemas precisa acompanhar clientes, tarefas e chamados, enquanto o cliente consulta sua própria operação e pede ajuda.
 

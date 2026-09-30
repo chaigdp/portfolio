@@ -20,6 +20,20 @@ Sou Chaiane de Paula, a Chai. Este espaço apresenta quatro produtos em desenvol
 - Construir protótipos e evoluí-los para aplicações com dados persistentes.
 - Documentar decisões, verificar comportamentos e apresentar limitações com clareza.
 
+## Telas iniciais
+
+Capturas das interfaces atuais em ambiente local. As imagens não contêm dados reais de clientes.
+
+| Nexora | chAI |
+| --- | --- |
+| [![Tela inicial do Nexora](assets/nexora-inicio.jpg)](projetos/NEXORA.md) | [![Tela inicial do chAI](assets/chai-inicio.jpg)](projetos/CHAI.md) |
+
+### Orbytta
+
+[![Tela inicial do Orbytta](assets/orbytta-inicio.jpg)](projetos/ORBYTTA.md)
+
+A captura da visão geral do CXIP está pendente de acesso. O Adventure Map será apresentado visualmente após sua revisão.
+
 ## Para gestores e recrutadores
 
 Cada página descreve o problema, as entregas verificadas e uma sugestão de demonstração em entrevista. As versões estão em desenvolvimento e não são apresentadas como produtos completos certificados.

@@ -2,6 +2,12 @@
 
 [Voltar ao portfólio](../README.md)
 
+## Tela inicial
+
+![Tela inicial do chAI](../assets/chai-inicio.jpg)
+
+Captura da interface atual em ambiente local de demonstração.
+
 ## Problema
 Clientes precisam de orientações claras e de um caminho organizado para abrir um pedido de suporte quando a orientação não resolve.
 

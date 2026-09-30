@@ -2,6 +2,12 @@
 
 [Voltar ao portfólio](../README.md)
 
+## Tela inicial
+
+![Tela inicial do Nexora](../assets/nexora-inicio.jpg)
+
+Recorte do painel de apresentação da tela inicial, em ambiente local de demonstração. A área com acessos de teste foi omitida.
+
 ## Problema
 Uma analista precisa acompanhar várias implantações, identificar pendências e saber quais entregas impedem a conclusão de cada cliente.
 
