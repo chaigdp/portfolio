@@ -1,4 +1,4 @@
-# CXIP | Jornada conversacional e governança de mensagens
+# Fluxion | Jornada conversacional e governança de mensagens
 
 [Voltar ao portfólio](../README.md)
 

@@ -1,10 +1,12 @@
-# Nexora | Acompanhamento de implantação de sistemas
+# Vectta | Acompanhamento de implantação de sistemas
 
 [Voltar ao portfólio](../README.md)
 
 ## Tela inicial
 
-![Tela inicial do Nexora](../assets/nexora-inicio.jpg)
+Imagem histórica, anterior à atualização da marca CelPhius Tecnologia.
+
+![Tela inicial do Vectta](../assets/vectta-inicio.jpg)
 
 Recorte do painel de apresentação da tela inicial, em ambiente local de demonstração. A área com acessos de teste foi omitida.
 

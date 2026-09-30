@@ -4,6 +4,8 @@
 
 ## Tela inicial
 
+Imagem histórica, anterior à atualização da marca CelPhius Tecnologia.
+
 ![Tela inicial do chAI](../assets/chai-inicio.jpg)
 
 Captura da interface atual em ambiente local de demonstração.
