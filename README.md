@@ -2,7 +2,7 @@
 
 Projetos que conectam experiência do cliente, suporte conversacional e implantação de sistemas.
 
-Sou Chaiane de Paula, a Chai. Este espaço apresenta quatro produtos em desenvolvimento: os problemas que resolvem, as funcionalidades implementadas e as evidências disponíveis. O código completo é mantido em repositórios separados, com acesso restrito.
+Sou Chaiane de Paula, a Chai. Este espaço apresenta quatro produtos em desenvolvimento: os problemas que resolvem, as funcionalidades implementadas e as evidências disponíveis. O código completo é mantido em repositórios separados. A restrição de acesso à implementação está em preparação.
 
 ## Conheça os projetos
 
