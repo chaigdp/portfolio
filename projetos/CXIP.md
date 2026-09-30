@@ -16,9 +16,6 @@ Reunir o planejamento da jornada e o acompanhamento registrado em um mapa visual
 - API no servidor, banco persistente, histórico de alterações e validação de vínculos.
 - Separação entre operação e demonstração inventada.
 
-## Evidência visual
-![Mapa interativo com dados de teste](../assets/cxip-mapa.jpg)
-
 ## Roteiro para entrevista
 1. Mostrar uma casa e sua mensagem vinculada.
 2. Explicar como um caminho alternativo nasce de uma casa de origem.
