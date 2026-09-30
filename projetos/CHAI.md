@@ -1,4 +1,4 @@
-# Chai | Assistente conversacional de suporte
+# chAI | Assistente conversacional de suporte
 
 [Voltar ao portfólio](../README.md)
 
