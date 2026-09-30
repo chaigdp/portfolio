@@ -20,12 +20,6 @@ Sou Chaiane de Paula, a Chai. Este espaço apresenta quatro produtos em desenvol
 - Construir protótipos e evoluí-los para aplicações com dados persistentes.
 - Documentar decisões, verificar comportamentos e apresentar limitações com clareza.
 
-## Destaque: o mapa da jornada do CXIP
-
-![Mapa da jornada do CXIP em verificação com dados de teste](assets/cxip-mapa.jpg)
-
-A imagem mostra uma verificação local com dados inventados. Não contém informações de clientes reais nem comprova integração com um canal externo.
-
 ## Para gestores e recrutadores
 
 Cada página descreve o problema, as entregas verificadas e uma sugestão de demonstração em entrevista. As versões estão em desenvolvimento e não são apresentadas como produtos completos certificados.
