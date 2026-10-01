@@ -1,65 +1,82 @@
-# Chaiane de Paula | Portfólio de produtos de tecnologia
+![Chaiane de Paula: experiência que aproxima, tecnologia que resolve](assets/capa-portfolio.svg)
 
-Projetos que conectam experiência do cliente, suporte conversacional e implantação de sistemas.
+# Oi, eu sou a Chai. Transformo necessidades em experiências e produtos.
 
-Sou Chaiane de Paula, a Chai. Este espaço apresenta quatro produtos em desenvolvimento: os problemas que resolvem, as funcionalidades implementadas e as evidências disponíveis. O código completo é mantido em repositórios separados. A restrição de acesso à implementação está em preparação.
+Sou **Chaiane de Paula**, profissional com mais de dez anos de experiência em atendimento, suporte, implantação e experiência do cliente. Curso Gestão de TI e construo produtos que aproximam conversas, processos e tecnologia.
+
+Meu foco reúne **IA conversacional, escrita para interfaces, automação e implantação de sistemas**. Parto dos problemas da operação para desenhar jornadas, organizar requisitos e desenvolver soluções com apoio de IA, revisão e documentação.
+
+[Conheça meu GitHub](https://github.com/chaigdp) · [Explore os cinco projetos](#meus-projetos) · [Minha forma de trabalhar](#como-eu-trabalho)
 
 ## CelPhius Tecnologia
 
-![Logo CelPhius Tecnologia](assets/celphius-tecnologia.svg)
+<img src="assets/celphius-tecnologia.png" alt="CelPhius Tecnologia" width="460">
 
 **O ponto onde seus projetos se encontram.**
 
-Uma constelação de soluções conectadas pelo mesmo eixo: Axis dita a direção, Fluxion capta o movimento, Vectta traça a rota e Orbytta conecta os mundos. chAI representa a inteligência transversal desse ecossistema. Essa é a arquitetura de marca; as páginas de cada produto descrevem seus recursos efetivamente implementados.
+A CelPhius é a identidade do ecossistema que estou construindo. Axis organiza a gestão, Fluxion acompanha jornadas conversacionais, Vectta orienta implantações, Orbytta conecta administração e operação, e chAI representa a inteligência conversacional.
 
-| Solução | Papel no ecossistema |
-| --- | --- |
-| Axis | Sistema gerencial, implementação pendente |
-| Fluxion | Jornada conversacional |
-| Vectta | Acompanhamento de implantação |
-| Orbytta | Gestão, ecossistema e integração |
-| chAI | Inteligência artificial transversal |
+**Conversas que movem, relações que ficam.**
 
-![Constelação de sistemas CelPhius](assets/ecossistema-celphius.svg)
+## Meus projetos
 
-[Guia de marca e arquitetura](docs/MARCA_CELPHIUS.md)
+| Produto | O problema que resolve | Entrega atual | Conheça |
+| --- | --- | --- | --- |
+| **Axis** | Projetos, links e pendências espalhados | Central gerencial com projetos, ambientes, histórico, biblioteca e cofre cifrado | [Caso do projeto](projetos/AXIS.md) |
+| **Fluxion** | Jornadas e mensagens difíceis de visualizar e governar | Mapa interativo, biblioteca, revisão textual, chamados, experimentos e auditoria | [Caso do projeto](projetos/FLUXION.md) |
+| **Vectta 2.0** | Implantações sem clareza de riscos, critérios e entregas | Carteira de implantação, cronograma, requisitos, testes, prontidão e rentabilidade | [Caso do projeto](projetos/VECTTA.md) |
+| **Orbytta** | Administração e operação do cliente desconectadas | Administração, implantação, chamados e operação demonstrativa de estoque, vendas e financeiro | [Caso do projeto](projetos/ORBYTTA.md) |
+| **chAI 0.3** | Suporte sem continuidade e transição organizada para a equipe | Assistente web, central executiva, atendimento humano, conhecimento e construtor de fluxos | [Caso do projeto](projetos/CHAI.md) |
 
-## Conheça os projetos
+### Ambientes e código
 
-| Projeto | Problema que aborda | Entrega demonstrável |
+Os sites podem exigir autenticação. O acesso disponível depende do ambiente e do perfil autorizado.
+
+| Produto | Ambiente | Repositório |
 | --- | --- | --- |
-| [Fluxion](projetos/FLUXION.md) | Visualizar e governar a jornada conversacional | Mapa interativo, mensagens vinculadas, histórico e registros persistentes |
-| [Vectta](projetos/VECTTA.md) | Acompanhar implantações e suas pendências | Carteira de clientes, entregas, dependências e indicadores |
-| [chAI](projetos/CHAI.md) | Orientar clientes e organizar pedidos de suporte | Assistente local em Python com abertura de chamados |
-| [Orbytta](projetos/ORBYTTA.md) | Conectar a gestão da implantação à operação do cliente | Administração, acompanhamento, chamados e demonstração de operação |
+| Axis | [Central gerencial, acesso privado](https://celphius-axis.chaianegdp.chatgpt.site) | [Código](https://github.com/chaigdp/axis) |
+| Fluxion | [Plataforma, acesso privado](https://fluxion.chaianegdp.chatgpt.site) | [Código](https://github.com/chaigdp/fluxion) |
+| Vectta | [Plataforma e demonstração](https://vectta.chaianegdp.chatgpt.site) | [Código](https://github.com/chaigdp/vectta) |
+| Orbytta | [Plataforma](https://orbytta.chaianegdp.chatgpt.site) · [Demonstração autenticada](https://orbytta.chaianegdp.chatgpt.site/?demo=1) | [Código](https://github.com/chaigdp/orbytta) |
+| chAI | Execução local ou porta privada no GitHub Codespaces | [Código e instruções](https://github.com/chaigdp/chai) |
 
-## Meu foco
+## Conheça a chAI
 
-- Transformar necessidades de atendimento e implantação em fluxos de produto.
-- Organizar comunicações, etapas, tarefas e critérios de conclusão.
-- Construir protótipos e evoluí-los para aplicações com dados persistentes.
-- Documentar decisões, verificar comportamentos e apresentar limitações com clareza.
+![Nova identidade da mascote chAI](assets/chai-identidade.webp)
 
-## Telas iniciais
+**Inteligência que acolhe.** A chAI é o rosto da minha agente conversacional: curiosa, acolhedora e orientada a resolver problemas. Sua identidade combina branco perolado, azul-marinho, ciano, rosa e roxo.
 
-Capturas históricas em ambiente local, anteriores à renomeação para CelPhius Tecnologia. As imagens ainda podem exibir os nomes anteriores e não contêm dados reais de clientes. Os nomes dos produtos e os sites atuais já foram atualizados.
+As quatro poses vetoriais estão [neste portfólio](assets/mascote): acenando, apresentando, pensando e celebrando. São adaptações ilustradas editáveis da referência visual aprovada.
 
-| Vectta | chAI |
-| --- | --- |
-| [![Tela inicial do Vectta](assets/vectta-inicio.jpg)](projetos/VECTTA.md) | [![Tela inicial do chAI](assets/chai-inicio.jpg)](projetos/CHAI.md) |
+[Identidade e aplicação](docs/MASCOTE.md)
 
-### Orbytta
+## Como eu trabalho
 
-[![Tela inicial do Orbytta](assets/orbytta-inicio.jpg)](projetos/ORBYTTA.md)
+1. **Entendo o problema.** Investigo a jornada, as dúvidas recorrentes e os pontos que impedem o cliente de avançar.
+2. **Organizo a experiência.** Desenho etapas, mensagens, critérios de conclusão e transição para atendimento humano.
+3. **Transformo em produto.** Estruturo requisitos e desenvolvo protótipos e aplicações com apoio de IA.
+4. **Verifico a entrega.** Reviso comportamentos, consistência dos dados, permissões e limites da solução.
+5. **Documento e evoluo.** Registro decisões, pendências e próximos passos para dar continuidade ao trabalho.
 
-A captura da visão geral do Fluxion está pendente de acesso. O Adventure Map será apresentado visualmente após sua revisão.
+## O que este portfólio demonstra
 
-## Para gestores e recrutadores
+- **Visão de produto:** transformar necessidades operacionais em fluxos, requisitos e prioridades.
+- **Experiência conversacional:** clareza das mensagens, contexto, continuidade e atendimento humano.
+- **Implantação:** dependências, parametrização, testes e critérios de entrada em operação.
+- **Organização técnica:** interfaces, serviços, bancos de dados e documentação em projetos reais de desenvolvimento.
 
-Cada página descreve o problema, as entregas verificadas e uma sugestão de demonstração em entrevista. As versões estão em desenvolvimento e não são apresentadas como produtos completos certificados.
+Os projetos utilizam Python, JavaScript, TypeScript, React, SQLite, Cloudflare Workers/D1 e adaptadores de integração. As páginas individuais explicam as escolhas e o estado de cada entrega.
 
-Demonstrações autenticadas ou locais podem ser apresentadas em entrevista. Este portfólio não concede acesso a dados operacionais, contas pessoais ou código privado.
+## Entregas e próximos passos
 
-**Contato:** [perfil profissional no GitHub](https://github.com/chaigdp).
+**Atualizações de 1º de outubro de 2026:** inclusão do Axis, Vectta 2.0, chAI 0.3 e nova mascote. O portfólio passou a apresentar os cinco produtos com casos individuais, ambientes e documentação.
 
-Atualizado em 30 de setembro de 2026.
+A integração completa entre os produtos permanece uma evolução do ecossistema. WhatsApp/Blip e outros canais ainda não estão conectados ao chAI. Os recursos de cada caso foram conferidos na documentação atual dos repositórios; este trabalho não representa uma nova validação operacional de todos os sistemas.
+
+Demonstrações usam dados fictícios. Credenciais pessoais, dados de clientes e links de administração internos não fazem parte deste portfólio.
+
+**Quer conhecer meu trabalho?** [Acesse meu perfil profissional no GitHub](https://github.com/chaigdp).
+
+[Guia de marca](docs/MARCA_CELPHIUS.md) · [Versão visual em HTML](index.html) · [Atualizações](docs/ATUALIZACOES.md)
+
+Atualizado em **1º de outubro de 2026**.

@@ -1,39 +1,42 @@
-# Orbytta | Administração, implantação e operação demonstrativa
+# Orbytta | Administração e operação
 
 [Voltar ao portfólio](../README.md)
 
-## Tela inicial
+![Orbytta](../assets/orbytta-marca.svg)
 
-Imagem histórica, anterior à atualização da marca CelPhius Tecnologia.
-
-![Tela inicial do Orbytta](../assets/orbytta-inicio.jpg)
-
-Captura da interface atual em ambiente local de demonstração.
+**Conectando a implantação à rotina do cliente.**
 
 ## Problema
-A equipe que implanta sistemas precisa acompanhar clientes, tarefas e chamados, enquanto o cliente consulta sua própria operação e pede ajuda.
 
-## Proposta
-Separar três experiências: administração do negócio, operação do cliente e demonstração com dados inventados.
+A equipe precisa administrar implantações e receber chamados da operação de cada cliente.
 
-## Implementado
-- Administração com clientes, sistemas em implantação, sistemas implantados e central de chamados.
-- Acompanhamento de tarefas da implantação.
-- Abertura de chamados pelo cliente com indicação da tela de origem.
-- Demonstração de cadastro, estoque, vendas, recebíveis e relatórios.
-- Empresas demonstrativas independentes e seleção de operação.
-- Adaptador para autenticação e banco Supabase, com limites de validação documentados.
+## Minha proposta de produto
 
-## Roteiro para entrevista
-1. Mostrar a visão administrativa do negócio.
-2. Consultar uma implantação e suas tarefas.
-3. Abrir um chamado pela operação do cliente e encontrá-lo na central.
-4. Apresentar uma venda fictícia com alteração de estoque na demonstração.
+Separar administração, operação do cliente e demonstração fictícia.
 
-## Tecnologia e validação
-Interface web, servidor Node.js, demonstração SQLite e adaptador Supabase. Há testes de isolamento entre empresas, autorização, validação de estoque, venda transacional, repetição de operações, revogação de sessão e apresentação de conteúdo.
+## Entregas atuais
 
-## Limites reais
-Produto em desenvolvimento. Não é ERP completo ou fiscalmente certificado. Emissão fiscal, homologação, conciliação, recuperação de acesso, cópias de segurança e validação de produção têm lacunas documentadas. Testes com respostas simuladas não substituem a verificação integral da integração externa. A demonstração da farmácia usa dados fictícios.
+- Administração de clientes, implantações, usuários e chamados.
+- Cadastros, estoque, vendas transacionais e contas a receber/pagar na demonstração.
+- Chamados com indicação da tela de origem e tarefas acompanhadas pelo cliente.
+- Demonstração de farmácia fictícia e adaptador para autenticação e dados externos.
 
-O código completo fica em um repositório separado, sem publicação neste portfólio.
+## Demonstração
+
+1. Mostrar a visão administrativa.
+2. Consultar implantação e chamados por empresa.
+3. Demonstrar uma venda fictícia e sua baixa de estoque.
+
+## Tecnologia e evidências
+
+JavaScript, Node.js, SQLite e adaptador Supabase.
+
+O repositório documenta testes de isolamento, autorização, estoque, vendas e integração com respostas simuladas. Esta atualização do portfólio conferiu a documentação; não reexecutou as suítes dos produtos.
+
+## Estado e próximos passos
+
+Produto em desenvolvimento, sem emissão fiscal certificada ou capacidade de produção comprovada. A documentação contém entregas de momentos distintos; a integração externa exige validação específica.
+
+[Acessar o ambiente](https://orbytta.chaianegdp.chatgpt.site) · [Código e documentação](https://github.com/chaigdp/orbytta)
+
+Dados de demonstração são fictícios. Atualizado em 01/10/2026.

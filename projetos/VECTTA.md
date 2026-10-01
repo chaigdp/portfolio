@@ -1,39 +1,42 @@
-# Vectta | Acompanhamento de implantação de sistemas
+# Vectta 2.0 | Implantação de sistemas
 
 [Voltar ao portfólio](../README.md)
 
-## Tela inicial
+![Vectta 2.0](../assets/vectta-marca.svg)
 
-Imagem histórica, anterior à atualização da marca CelPhius Tecnologia.
-
-![Tela inicial do Vectta](../assets/vectta-inicio.jpg)
-
-Recorte do painel de apresentação da tela inicial, em ambiente local de demonstração. A área com acessos de teste foi omitida.
+**Da primeira reunião à entrada em operação.**
 
 ## Problema
-Uma analista precisa acompanhar várias implantações, identificar pendências e saber quais entregas impedem a conclusão de cada cliente.
 
-## Proposta
-Centralizar a carteira de implantações, os critérios de conclusão e as dependências entre entregas.
+Múltiplas implantações exigem priorizar entregas e comprovar prontidão sem perder pendências.
 
-## Implementado
-- Cadastro e edição de clientes, etapas, escopo, datas e responsáveis.
-- Entregas com prioridade, bloqueio, dependência, prazo e criticidade.
-- Indicadores de carteira, conclusões por período e duração média.
-- Histórico de alterações, exportação CSV e guia de uso.
-- Demonstração com 30 empresas inventadas e 210 entregas.
-- Carteiras isoladas por visitante e contas pessoais com persistência.
+## Minha proposta de produto
 
-## Roteiro para entrevista
-1. Abrir a carteira de demonstração.
-2. Identificar uma implantação com entrega crítica pendente.
-3. Explicar o bloqueio de conclusão e as dependências.
-4. Atualizar a entrega e verificar o histórico.
+Organizar a carteira da analista com entregas, requisitos e critérios de conclusão.
 
-## Tecnologia e validação
-React, TypeScript, serviço Cloudflare Workers e banco D1. Senhas derivadas por PBKDF2, sessões com proteção no navegador, validação de origem e consultas isoladas por carteira. Testes locais verificaram entrada, cadastro, persistência, isolamento, histórico e impedimentos de conclusão.
+## Entregas atuais
 
-## Limites reais
-A primeira versão prioriza a área da analista. Acompanhamento do cliente, permissões por equipe, recuperação de e-mail, anexos e integração com Orbytta ainda exigem implementação. Não representa uma operação comercial integralmente validada.
+- Carteira com clientes, entregas, dependências, cronograma e riscos fundamentados.
+- Requisitos, testes, chamados, processos e parametrizações.
+- Critérios de prontidão verificados no servidor e indicadores de rentabilidade.
+- Importação CSV com conferência e demonstração de 30 empresas e 210 entregas.
 
-O código completo fica em um repositório separado, sem publicação neste portfólio.
+## Demonstração
+
+1. Entrar na demonstração isolada.
+2. Identificar uma dependência e uma entrega crítica.
+3. Verificar os critérios que impedem a entrada em operação.
+
+## Tecnologia e evidências
+
+React, TypeScript, Cloudflare Workers e D1.
+
+O repositório documenta verificações de tipos, testes de serviço, autenticação e compilação. Esta atualização do portfólio conferiu a documentação; não reexecutou as suítes dos produtos.
+
+## Estado e próximos passos
+
+A primeira área é da analista. Permissões por equipe, anexos privados, recuperação de e-mail e sincronização CRM bidirecional estão pendentes. Aceites são registrados pela analista.
+
+[Acessar o ambiente](https://vectta.chaianegdp.chatgpt.site) · [Código e documentação](https://github.com/chaigdp/vectta)
+
+Dados de demonstração são fictícios. Atualizado em 01/10/2026.

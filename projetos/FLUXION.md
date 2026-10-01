@@ -1,31 +1,42 @@
-# Fluxion | Jornada conversacional e governança de mensagens
+# Fluxion | Jornadas conversacionais
 
 [Voltar ao portfólio](../README.md)
 
+![Fluxion](../assets/fluxion-marca.svg)
+
+**Cada conversa tem um caminho.**
+
 ## Problema
-Comunicações distribuídas dificultam entender a sequência da jornada, as alternativas de atendimento e quais mensagens estão vinculadas a cada etapa.
 
-## Proposta
-Reunir o planejamento da jornada e o acompanhamento registrado em um mapa visual com trilha, mascote e casas interativas.
+Mensagens e etapas distribuídas dificultam governar a experiência conversacional.
 
-## Implementado
-- Mapa da jornada com casas clicáveis, caminhos alternativos e de falha.
-- Filtros para diferentes recortes da jornada e navegação do mascote.
-- Mensagens A/B vinculadas às etapas e curva emocional explicitamente planejada.
-- Edição de casas, clientes, eventos, mensagens, chamados e experimentos.
-- API no servidor, banco persistente, histórico de alterações e validação de vínculos.
-- Separação entre operação e demonstração inventada.
+## Minha proposta de produto
 
-## Roteiro para entrevista
-1. Mostrar uma casa e sua mensagem vinculada.
-2. Explicar como um caminho alternativo nasce de uma casa de origem.
-3. Editar uma etapa e conferir o registro persistido.
-4. Registrar um evento para um cliente e consultar seu acompanhamento.
+Visualizar a jornada e conectar etapas, mensagens e eventos registrados.
 
-## Tecnologia e validação
-Interface em React e TypeScript; serviço no servidor e banco Cloudflare D1. Foram realizados testes de autenticação, isolamento de usuários, edição, auditoria, integridade, conflitos e persistência após reabrir o banco. O mapa foi conferido visualmente com dados de teste.
+## Entregas atuais
 
-## Limites reais
-Percorrer o mapa é uma simulação visual. Os eventos são registrados manualmente. A emoção exibida pertence ao planejamento, não a uma medição do cliente. Não há envio por WhatsApp/Blip, coleta automática, integração CRM/ERP ou avaliação por IA conectada nesta entrega. A aplicação hospedada mantém acesso restrito.
+- Mapa interativo com trilha, ramais e mensagens A/B vinculadas.
+- Clientes com linha do tempo de eventos cadastrados.
+- Biblioteca com aprovação humana e laboratório com seis regras de revisão.
+- Chamados, experimentos, importação e auditoria persistente.
 
-O código completo fica em um repositório separado, sem publicação neste portfólio.
+## Demonstração
+
+1. Selecionar uma etapa e sua mensagem.
+2. Explicar um caminho alternativo.
+3. Editar a etapa e conferir o histórico.
+
+## Tecnologia e evidências
+
+React, TypeScript, Cloudflare Workers e D1.
+
+O repositório contém testes da API, integridade dos dados e geometria do mapa. Esta atualização do portfólio conferiu a documentação; não reexecutou as suítes dos produtos.
+
+## Estado e próximos passos
+
+Eventos e contagens de experimentos são registrados manualmente. A curva emocional é planejada. Não há envio por Blip/WhatsApp, coleta automática ou IA conectada.
+
+[Acessar o ambiente](https://fluxion.chaianegdp.chatgpt.site) · [Código e documentação](https://github.com/chaigdp/fluxion)
+
+Dados de demonstração são fictícios. Atualizado em 01/10/2026.

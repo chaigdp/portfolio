@@ -17,7 +17,7 @@ A empresa se chama **CelPhius Tecnologia**, sempre com C e P maiúsculos. O sím
 | Orbytta | Ecossistema e integração | Conexão entre sistemas, parceiros e interfaces de integração |
 | chAI | Inteligência artificial transversal | Inteligência e automação entre os produtos |
 
-Os papéis acima descrevem a arquitetura de marca e a visão de produto. Integrações e recursos ainda não implementados não devem ser apresentados como disponíveis. O Orbytta mantém suas funções de gestão e operação atuais. Axis é uma marca definida, com implementação ainda pendente.
+Os papéis acima descrevem a arquitetura de marca e a visão de produto. Integrações e recursos ainda não implementados não devem ser apresentados como disponíveis. O Orbytta mantém suas funções de gestão e operação atuais. Axis já possui uma primeira versão gerencial; sincronização em tempo real e colaboração por equipe ainda estão pendentes.
 
 ## Origem dos nomes
 
@@ -59,4 +59,4 @@ Empresa CXIP/CXP Tecnologia → CelPhius Tecnologia. Produto conversacional CXIP
 
 Identificadores técnicos antigos que preservam dados, contas, protocolos e compatibilidade podem permanecer internamente. Não alterar tabelas, identificadores de clientes, vínculos ou segredos apenas por uma troca de marca. Os arquivos originais de imagem permanecem preservados.
 
-Atualizado em 30/09/2026.
+Atualizado em 01/10/2026.

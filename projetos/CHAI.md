@@ -1,38 +1,46 @@
-# chAI | Assistente conversacional de suporte
+# chAI 0.3 | Inteligência conversacional
 
 [Voltar ao portfólio](../README.md)
 
-## Tela inicial
+![chAI 0.3](../assets/chai-marca.svg)
 
-Imagem histórica, anterior à atualização da marca CelPhius Tecnologia.
-
-![Tela inicial do chAI](../assets/chai-inicio.jpg)
-
-Captura da interface atual em ambiente local de demonstração.
+**Conversas que movem, relações que ficam.**
 
 ## Problema
-Clientes precisam de orientações claras e de um caminho organizado para abrir um pedido de suporte quando a orientação não resolve.
 
-## Proposta
-Oferecer conversa acolhedora, orientações baseadas em uma fonte e confirmação explícita antes de abrir um chamado.
+Clientes precisam de orientação com contexto e continuidade quando o atendimento passa à equipe.
 
-## Implementado na demonstração local
-- Conversa com orientações fictícias e seleção de empresas demonstrativas.
-- Abertura de chamado mediante confirmação.
-- Consulta de histórico e atualização da situação pela equipe demonstrativa.
-- Persistência dos registros em SQLite.
-- Adaptador para um provedor de IA, dependente de configuração privada.
+## Minha proposta de produto
 
-## Roteiro para entrevista
-1. Escolher uma empresa demonstrativa.
-2. Enviar uma dúvida sobre estoque.
-3. Confirmar a abertura de um chamado.
-4. Consultar o registro na área demonstrativa da equipe.
+Unir assistente, conhecimento, histórico e atendimento humano em um canal web.
 
-## Tecnologia e validação
-Servidor em Python; interface em HTML, CSS e JavaScript. Sete testes automatizados documentados cobrem isolamento, permissões, confirmação e repetição de chamados, validação e contrato simulado de IA.
+## Entregas atuais
 
-## Limites reais
-A demonstração é local, não um serviço público de produção. Os perfis são demonstrativos. Não há atendimento humano ao vivo, integração com WhatsApp ou conexão com Orbytta. A IA externa requer credenciais privadas e validação real; sem configuração, são utilizadas orientações locais.
+- Painel executivo, fila de atendimento humano e cadastro/desativação de usuários.
+- Conhecimento editável e copiloto com fontes consultadas.
+- Construtor de fluxos com rascunho e publicação.
+- Histórico retomável, preferências autorizadas, satisfação e nova mascote.
 
-O código completo fica em um repositório separado, sem publicação neste portfólio.
+## Demonstração
+
+1. Iniciar o servidor em ambiente privado e entrar com conta previamente criada.
+2. Conversar com a assistente e verificar uma fonte.
+3. Encaminhar à equipe e acompanhar na central executiva.
+
+## Tecnologia e evidências
+
+Python, HTML, CSS, JavaScript e SQLite; adaptador para IA externa.
+
+O repositório contém testes de autenticação, isolamento, atendimento humano, fluxos, memória com consentimento e conexão Axis. Esta atualização do portfólio conferiu a documentação; não reexecutou as suítes dos produtos.
+
+## Estado e próximos passos
+
+Atualização do painel por consulta a cada cinco segundos. IA externa depende de configuração privada. WhatsApp, Instagram, Blip, e-mail e ações no ERP não estão conectados. Execução local ou porta privada; sem escala de produção comprovada.
+
+![Mascote chAI acenando](../assets/mascote/chAI_Acenando.svg)
+
+A nova mascote aparece como rosto da agente. [Conheça sua identidade](../docs/MASCOTE.md).
+
+[Código e documentação](https://github.com/chaigdp/chai)
+
+Dados de demonstração são fictícios. Atualizado em 01/10/2026.
