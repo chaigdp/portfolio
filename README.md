@@ -8,13 +8,13 @@ Meu foco reúne **IA conversacional, escrita para interfaces, automação e impl
 
 [Explore os cinco projetos](#meus-projetos) · [Minha forma de trabalhar](#como-eu-trabalho)
 
-## CelPhius Tecnologia
+## chAI Conecta
 
-<img src="assets/celphius-tecnologia.png" alt="CelPhius Tecnologia" width="460">
+<img src="assets/chai-conecta.svg" alt="chAI Conecta" width="460">
 
 **O ponto onde seus projetos se encontram.**
 
-A CelPhius é a identidade do ecossistema que estou construindo. Axis organiza a gestão, Aurion desenha e reformula jornadas conversacionais, Vectta orienta implantações, Orbytta conecta administração e operação, e chAI representa a inteligência conversacional.
+A chAI Conecta é a identidade do ecossistema que estou construindo. Axis organiza a gestão, Aurion desenha e reformula jornadas conversacionais, Vectta orienta implantações, Orbytta conecta administração e operação, e chAI representa a inteligência conversacional.
 
 **Conversas que movem, relações que ficam.**
 
