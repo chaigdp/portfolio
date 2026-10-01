@@ -2,6 +2,9 @@
 
 ## 01/10/2026
 
+- Aurion substitui Fluxion na seleção de projetos ativos, na página visual e no guia de marca.
+- Descrição do Aurion atualizada para arquitetura conversacional, com escopo em construção.
+
 - Apresentação profissional dos cinco projetos CelPhius.
 - Axis incluído como central gerencial.
 - Vectta atualizado para a versão 2.0 e chAI para a versão 0.3.

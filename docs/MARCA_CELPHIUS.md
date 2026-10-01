@@ -12,7 +12,7 @@ A empresa se chama **CelPhius Tecnologia**, sempre com C e P maiúsculos. O sím
 | --- | --- | --- |
 | CelPhius Tecnologia | Empresa mãe | Centro gravitacional do ecossistema |
 | Axis | Sistema gerencial | Eixo de direção, equilíbrio e sustentação |
-| Fluxion | Jornada conversacional ao vivo | Movimento contínuo das interações e do atendimento |
+| Aurion | Arquitetura conversacional | Desenho, simulação e reformulação de jornadas |
 | Vectta | Acompanhamento de implantação | Direção e aceleração da implantação até o sucesso |
 | Orbytta | Ecossistema e integração | Conexão entre sistemas, parceiros e interfaces de integração |
 | chAI | Inteligência artificial transversal | Inteligência e automação entre os produtos |
@@ -27,7 +27,7 @@ Os papéis acima descrevem a arquitetura de marca e a visão de produto. Integra
 
 **Orbytta:** inspirado em órbita, o caminho percorrido por um corpo celeste. Conecta mundos em sincronia.
 
-**Fluxion:** inspirado em fluxo e na mecânica dos fluidos. Representa o movimento contínuo das conversas.
+**Aurion:** nome atual da plataforma de arquitetura conversacional. A origem do nome ainda não foi formalizada pela fundadora.
 
 **Vectta:** inspirado em vetor, com magnitude, direção e sentido. Guia a implantação com precisão.
 
@@ -35,7 +35,7 @@ Os papéis acima descrevem a arquitetura de marca e a visão de produto. Integra
 
 ## Texto institucional
 
-No universo de tecnologia da CelPhius, cada solução gira em ritmo perfeito ao redor do mesmo eixo central. Unimos a precisão dos pulsos celestes à gravidade de um ecossistema integrado: Axis dita a direção, Fluxion capta o movimento ao vivo, Vectta traça a rota e Orbytta conecta os mundos. chAI é a camada transversal de inteligência que conecta essa visão.
+No universo de tecnologia da CelPhius, cada solução gira em ritmo perfeito ao redor do mesmo eixo central. Unimos a precisão dos pulsos celestes à gravidade de um ecossistema integrado: Axis dita a direção, Aurion desenha e aprimora as jornadas, Vectta traça a rota e Orbytta conecta os mundos. chAI é a camada transversal de inteligência que conecta essa visão.
 
 ## Manifesto
 
@@ -51,11 +51,11 @@ Não entregamos apenas softwares; criamos o ecossistema no qual sua empresa grav
 
 ## Aplicação visual
 
-Usar pontos ligados para representar uma constelação de sistemas. CelPhius ocupa o centro institucional; Axis representa o eixo gerencial; Fluxion, Vectta e Orbytta são soluções conectadas; chAI atravessa o conjunto. Manter a paleta original, sem redesenhar o ícone CP. A capa atual do LinkedIn deve ser usada como referência visual quando seu arquivo estiver disponível.
+Usar pontos ligados para representar uma constelação de sistemas. CelPhius ocupa o centro institucional; Axis representa o eixo gerencial; Aurion, Vectta e Orbytta são soluções conectadas; chAI atravessa o conjunto. Manter a paleta original, sem redesenhar o ícone CP. A capa atual do LinkedIn deve ser usada como referência visual quando seu arquivo estiver disponível.
 
 ## Migração dos nomes
 
-Empresa CXIP/CXP Tecnologia → CelPhius Tecnologia. Produto conversacional CXIP → Fluxion. Produto de implantação Nexora → Vectta. chAI e Orbytta mantêm seus nomes.
+Empresa CXIP/CXP Tecnologia → CelPhius Tecnologia. Aurion substitui Fluxion na apresentação dos projetos ativos. Fluxion está temporariamente aposentado. Produto de implantação Nexora → Vectta. chAI e Orbytta mantêm seus nomes.
 
 Identificadores técnicos antigos que preservam dados, contas, protocolos e compatibilidade podem permanecer internamente. Não alterar tabelas, identificadores de clientes, vínculos ou segredos apenas por uma troca de marca. Os arquivos originais de imagem permanecem preservados.
 
