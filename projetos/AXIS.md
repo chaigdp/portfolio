@@ -27,16 +27,10 @@ Centralizar projetos, links, pendências, arquivos e decisões da proprietária.
 2. Consultar pendências e registrar uma decisão.
 3. Atualizar metadados do GitHub sob demanda.
 
-## Tecnologia e evidências
-
-React, TypeScript, Cloudflare Workers, D1 e R2.
-
-Consultar os testes de acesso e a documentação de identidade no repositório. Esta atualização do portfólio conferiu a documentação; não reexecutou as suítes dos produtos.
-
 ## Estado e próximos passos
 
 Primeira versão para uma proprietária. Não há sincronização em tempo real, colaboração por equipe ou integração bidirecional. A consulta GitHub é sob demanda.
 
-[Acessar o ambiente](https://celphius-axis.chaianegdp.chatgpt.site) · [Código e documentação](https://github.com/chaigdp/axis)
+
 
 Dados de demonstração são fictícios. Atualizado em 01/10/2026.

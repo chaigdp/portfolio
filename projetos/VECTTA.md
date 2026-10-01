@@ -27,16 +27,10 @@ Organizar a carteira da analista com entregas, requisitos e critérios de conclu
 2. Identificar uma dependência e uma entrega crítica.
 3. Verificar os critérios que impedem a entrada em operação.
 
-## Tecnologia e evidências
-
-React, TypeScript, Cloudflare Workers e D1.
-
-O repositório documenta verificações de tipos, testes de serviço, autenticação e compilação. Esta atualização do portfólio conferiu a documentação; não reexecutou as suítes dos produtos.
-
 ## Estado e próximos passos
 
 A primeira área é da analista. Permissões por equipe, anexos privados, recuperação de e-mail e sincronização CRM bidirecional estão pendentes. Aceites são registrados pela analista.
 
-[Acessar o ambiente](https://vectta.chaianegdp.chatgpt.site) · [Código e documentação](https://github.com/chaigdp/vectta)
+
 
 Dados de demonstração são fictícios. Atualizado em 01/10/2026.

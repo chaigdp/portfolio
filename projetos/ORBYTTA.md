@@ -27,16 +27,10 @@ Separar administração, operação do cliente e demonstração fictícia.
 2. Consultar implantação e chamados por empresa.
 3. Demonstrar uma venda fictícia e sua baixa de estoque.
 
-## Tecnologia e evidências
-
-JavaScript, Node.js, SQLite e adaptador Supabase.
-
-O repositório documenta testes de isolamento, autorização, estoque, vendas e integração com respostas simuladas. Esta atualização do portfólio conferiu a documentação; não reexecutou as suítes dos produtos.
-
 ## Estado e próximos passos
 
 Produto em desenvolvimento, sem emissão fiscal certificada ou capacidade de produção comprovada. A documentação contém entregas de momentos distintos; a integração externa exige validação específica.
 
-[Acessar o ambiente](https://orbytta.chaianegdp.chatgpt.site) · [Código e documentação](https://github.com/chaigdp/orbytta)
+
 
 Dados de demonstração são fictícios. Atualizado em 01/10/2026.
