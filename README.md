@@ -30,7 +30,7 @@ A chAI Conecta é a identidade do ecossistema que estou construindo. Fluxion é 
 
 ### Demonstrações
 
-[Acessar Fluxion](https://fluxion.chaianegdp.chatgpt.site) · [Conheça o Vectta](https://vectta.chaianegdp.chatgpt.site) · [Demonstração do Orbytta](https://orbytta.chaianegdp.chatgpt.site/?demo=1)
+[Conheça o Vectta](https://vectta.chaianegdp.chatgpt.site) · [Demonstração do Orbytta](https://orbytta.chaianegdp.chatgpt.site/?demo=1)
 
 Os ambientes podem exigir autenticação. As demonstrações usam dados fictícios. Este portfólio apresenta os produtos e não distribui seu código-fonte.
 
@@ -63,7 +63,7 @@ Minha formação prática envolve programação, interfaces, serviços e bancos 
 
 ## Entregas e próximos passos
 
-**Atualizações de 1º de outubro de 2026:** o sistema de gestão anteriormente chamado Axis passa a se chamar **Fluxion**. O produto antigo que usava o nome Fluxion foi aposentado e não faz parte do ecossistema ativo. **Axis fica reservado para um futuro CRM.** Aurion permanece como produto de arquitetura conversacional, ao lado de Vectta 2.0, Orbytta e chAI 0.3.
+**Atualizações de 1º de outubro de 2026:** o Fluxion original foi desativado e seu endereço antigo retirado do ar.  o sistema de gestão anteriormente chamado Axis passa a se chamar **Fluxion**. O produto antigo que usava o nome Fluxion foi aposentado e não faz parte do ecossistema ativo. **Axis fica reservado para um futuro CRM.** Aurion permanece como produto de arquitetura conversacional, ao lado de Vectta 2.0, Orbytta e chAI 0.3.
 
 A integração completa entre os produtos permanece uma evolução do ecossistema. WhatsApp/Blip e outros canais ainda não estão conectados ao chAI. As páginas apresentam as entregas documentadas; os produtos seguem em desenvolvimento.
 
