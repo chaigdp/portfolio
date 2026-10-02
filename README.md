@@ -71,6 +71,6 @@ Demonstrações usam dados fictícios. Credenciais pessoais, dados de clientes e
 
 **Disponível para conversar sobre oportunidades em implantação, experiência do cliente, automação e IA conversacional.**
 
-[Guia de marca](docs/MARCA_CELPHIUS.md) · [Versão visual em HTML](index.html) · [Atualizações](docs/ATUALIZACOES.md)
+[Guia de marca](docs/MARCA.md) · [Versão visual em HTML](index.html) · [Atualizações](docs/ATUALIZACOES.md)
 
 Atualizado em **1º de outubro de 2026**.
