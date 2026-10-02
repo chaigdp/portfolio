@@ -1,20 +1,22 @@
 # chAI Conecta — Governança de Marca e Source of Truth
 
 Versão: 1.0
-Status: identidade institucional em migração controlada
+Status: marca institucional em definição
 Atualizado: 2026-10-01
 
 ## Fonte de verdade
 - Identidade visual editável: Figma, arquivo "chAI Conecta — Identidade Visual & Brand System" (Brand System completo pendente do limite MCP).
-- Asset vetorial canônico para código: `chai-conecta.svg` em cada produto.
+- O ecossistema pode manter seus assets de produto. A área da marca institucional deve permanecer vazia até nova definição.
 - Documentação técnica: repositório GitHub de cada produto.
 - Portfólio público: `chaigdp/portfolio`.
 - Código dos produtos: privado por padrão. A adequação de visibilidade será executada na etapa final.
 
 ## Identidade institucional
-Nome oficial: **chAI Conecta**
-Assinatura: **Conversas que movem, relações que ficam.**
-Monograma institucional: **CH**
+Nome institucional: **em definição**
+Assinatura institucional: **em definição**
+Monograma institucional: **em definição**
+
+Até a nova marca ser definida, interfaces devem preservar o espaço visual reservado sem exibir nome, logotipo ou assinatura institucional.
 
 ### Cores-base
 - Midnight: #080F25
@@ -37,7 +39,7 @@ Monograma institucional: **CH**
 1. Não renomear identificadores técnicos apenas por conterem nomes legados.
 2. Manter aliases/rotas legadas quando necessários para compatibilidade.
 3. Usar `chai-conecta.svg` em novas implementações.
-4. Assets com nome `celphius-*` são legados e não são a fonte canônica.
+4. Assets da marca institucional anterior devem ser removidos das interfaces e do portfólio ativo.
 5. Nunca armazenar senhas, tokens ou segredos em assets, documentação pública ou código versionado.
 6. Toda alteração relevante deve ter commit descritivo e documentação correspondente.
 
@@ -52,5 +54,5 @@ Monograma institucional: **CH**
 - chAI Conecta definida como identidade institucional atual.
 - `CH` definido como monograma.
 - Criado asset vetorial canônico.
-- Iniciada migração de CelPhius para chAI Conecta.
+- A marca institucional anterior foi descontinuada; o espaço visual fica reservado até a definição da nova marca.
 - Figma Brand System permanece pendente de conclusão visual.
