@@ -27,10 +27,10 @@ Centralizar projetos, links, pendências, arquivos, versões e decisões da prop
 
 ## Links atuais
 
-- [Acessar Fluxion](https://celphius-axis.chaianegdp.chatgpt.site)
-- Repositório técnico atual: `chaigdp/axis`, nome temporário até a migração definitiva para `chaigdp/fluxion`.
+- [Acessar Fluxion](https://fluxion.chaianegdp.chatgpt.site)
+- Repositório oficial: `chaigdp/fluxion`.
 
-O endereço hospedado ainda contém o identificador técnico legado `axis`, mas aponta para a central gerencial que agora se chama **Fluxion**. O endereço `fluxion.chaianegdp.chatgpt.site` pertence ao produto legado aposentado e não deve ser usado como destino do Fluxion atual.
+O endereço oficial do Fluxion atual é `https://fluxion.chaianegdp.chatgpt.site`. O produto conversacional antigo foi preservado apenas como histórico na branch `legacy-conversacional` do repositório.
 
 ## Estado atual
 
