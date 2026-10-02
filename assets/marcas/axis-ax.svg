@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+<title id="title">Axis · monograma AX</title>
+<desc id="desc">Ícone vetorial oficial do ecossistema chAI, padronizado em geometria, espessura e alinhamento.</desc>
+<defs>
+<linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#19D9F4"/><stop offset=".28" stop-color="#2573FF"/><stop offset=".58" stop-color="#6B35F5"/><stop offset=".82" stop-color="#B826EE"/><stop offset="1" stop-color="#FF2B93"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4FE8FF"/><stop offset=".48" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FF54B9"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".34"/><stop offset=".48" stop-color="#FFFFFF" stop-opacity=".08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<filter id="tileGlow" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="22" result="blur"/><feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 .65 0"/></filter>
+<filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="10" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="tileClip"><rect x="92" y="84" width="840" height="840" rx="188"/></clipPath>
+</defs>
+<rect x="92" y="84" width="840" height="840" rx="188" fill="url(#surface)" opacity=".9" filter="url(#tileGlow)"/>
+<rect x="92" y="84" width="840" height="840" rx="188" fill="url(#surface)"/>
+<rect x="92" y="84" width="840" height="840" rx="188" fill="none" stroke="url(#edge)" stroke-width="13"/>
+<rect x="116" y="108" width="792" height="792" rx="168" fill="none" stroke="#FFFFFF" stroke-opacity=".34" stroke-width="4"/>
+<g clip-path="url(#tileClip)"><path d="M110 110H914V230C720 254 545 318 390 414C278 484 190 560 92 664V84H932V160C640 165 370 177 110 230Z" fill="url(#glass)"/><path d="M114 120C410 106 676 115 904 146" fill="none" stroke="#FFFFFF" stroke-opacity=".28" stroke-width="8" stroke-linecap="round"/></g>
+<g fill="#FFFFFF" filter="url(#softGlow)" transform="translate(235.6577 620) scale(0.2013423 -0.2013423)"><path d="M20 0H208L358 418H980L1126 0H1318L774 1490H570ZM415 578 530 898C568 1003 608 1123 672 1321C736 1123 776 1003 813 898L925 578Z" transform="translate(0 0)"/><path d="M25 0H229L496 384C552 465 607 545 662 626C715 545 769 465 825 384L1090 0H1297L768 769L1270 1490H1067L843 1168C781 1079 722 991 663 902C604 991 545 1079 485 1168L265 1490H57L559 763Z" transform="translate(1428 0)"/></g>
+<g filter="url(#softGlow)"><rect x="296" y="744" width="184" height="22" rx="11" fill="#FF45B4"/><rect x="544" y="744" width="184" height="22" rx="11" fill="#1FE7FF"/></g>
+</svg>
