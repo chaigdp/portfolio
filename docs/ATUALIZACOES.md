@@ -2,15 +2,14 @@
 
 ## 01/10/2026
 
-- Aurion substitui Fluxion na seleção de projetos ativos, na página visual e no guia de marca.
-- Descrição do Aurion atualizada para arquitetura conversacional, com escopo em construção.
-
-- Apresentação profissional dos cinco projetos CelPhius.
-- Axis incluído como central gerencial.
-- Vectta atualizado para a versão 2.0 e chAI para a versão 0.3.
+- A central gerencial anteriormente chamada **Axis** passa oficialmente a se chamar **Fluxion**.
+- O produto que usava o nome Fluxion anteriormente é aposentado e permanece apenas como legado histórico.
+- **Axis** fica reservado para um futuro CRM.
+- **Aurion** permanece como produto de arquitetura e desenho de jornadas conversacionais.
+- O portfólio ativo passa a apresentar Fluxion, Aurion, Vectta, Orbytta e chAI.
+- Vectta permanece na versão 2.0 e chAI na versão 0.3.
 - Nova mascote com poses editáveis e identidade visual.
 - Página responsiva de apresentação.
-- Remoção dos links aos repositórios de implementação e ambientes de gestão privada.
-- Remoção das capturas históricas da versão atual.
+- Repositórios de implementação permanecem privados; o portfólio público não distribui o código-fonte dos produtos.
 
-Este espaço apresenta propostas, funcionalidades e demonstrações fictícias. Não contém a implementação dos sistemas.
+Este espaço apresenta propostas, funcionalidades e demonstrações fictícias. Não contém a implementação completa dos sistemas.
