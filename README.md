@@ -30,7 +30,7 @@ A chAI Conecta é a identidade do ecossistema que estou construindo. Fluxion org
 
 ### Demonstrações
 
-[Conheça o Vectta](https://vectta.chaianegdp.chatgpt.site) · [Demonstração do Orbytta](https://orbytta.chaianegdp.chatgpt.site/?demo=1)
+[Acessar Fluxion](https://celphius-axis.chaianegdp.chatgpt.site) · [Conheça o Vectta](https://vectta.chaianegdp.chatgpt.site) · [Demonstração do Orbytta](https://orbytta.chaianegdp.chatgpt.site/?demo=1)
 
 Os ambientes podem exigir autenticação. As demonstrações usam dados fictícios. Este portfólio apresenta os produtos e não distribui seu código-fonte.
 
