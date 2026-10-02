@@ -27,10 +27,9 @@ Centralizar sistemas, links, pendências, arquivos, versões e decisões em um �
 
 ## Links atuais
 
-- [Acessar Fluxion](https://fluxion.chaianegdp.chatgpt.site)
 - Repositório oficial: `chaigdp/fluxion`.
 
-O endereço oficial do Fluxion atual é `https://fluxion.chaianegdp.chatgpt.site`. O produto antigo que usava o nome Fluxion foi aposentado. Seu histórico técnico foi preservado apenas na branch `legacy-conversacional` e não representa um produto ativo.
+O endereço do Fluxion original foi desativado. Não há link público ativo para Fluxion neste momento. O antigo Axis será posteriormente renomeado e publicado como o novo Fluxion.
 
 ## Estado atual
 
