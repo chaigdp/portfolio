@@ -14,7 +14,7 @@ Meu foco reúne **IA conversacional, escrita para interfaces, automação e impl
 
 **O ponto onde seus projetos se encontram.**
 
-A chAI Conecta é a identidade do ecossistema que estou construindo. Axis organiza a gestão, Aurion desenha e reformula jornadas conversacionais, Vectta orienta implantações, Orbytta conecta administração e operação, e chAI representa a inteligência conversacional.
+A chAI Conecta é a identidade do ecossistema que estou construindo. Fluxion organiza a gestão central, Aurion desenha e reformula jornadas conversacionais, Vectta orienta implantações, Orbytta conecta administração e operação, e chAI representa a inteligência conversacional.
 
 **Conversas que movem, relações que ficam.**
 
@@ -22,7 +22,7 @@ A chAI Conecta é a identidade do ecossistema que estou construindo. Axis organi
 
 | Produto | O problema que resolve | Entrega atual | Conheça |
 | --- | --- | --- | --- |
-| **Axis** | Projetos, links e pendências espalhados | Central gerencial com projetos, ambientes, histórico, biblioteca e cofre cifrado | [Caso do projeto](projetos/AXIS.md) |
+| **Fluxion** | Projetos, links e pendências espalhados | Central gerencial com projetos, ambientes, histórico, biblioteca e cofre cifrado | [Caso do projeto](projetos/FLUXION.md) |
 | **Aurion** | Fluxos conversacionais difíceis de desenhar, revisar e melhorar | Plataforma em construção para arquitetura, simulação e revisão de jornadas | [Caso do projeto](projetos/AURION.md) |
 | **Vectta 2.0** | Implantações sem clareza de riscos, critérios e entregas | Carteira de implantação, cronograma, requisitos, testes, prontidão e rentabilidade | [Caso do projeto](projetos/VECTTA.md) |
 | **Orbytta** | Administração e operação do cliente desconectadas | Administração, implantação, chamados e operação demonstrativa de estoque, vendas e financeiro | [Caso do projeto](projetos/ORBYTTA.md) |
@@ -63,7 +63,7 @@ Minha formação prática envolve programação, interfaces, serviços e bancos 
 
 ## Entregas e próximos passos
 
-**Atualizações de 1º de outubro de 2026:** Aurion substitui Fluxion na apresentação do ecossistema. Fluxion está temporariamente aposentado. inclusão do Axis, Vectta 2.0, chAI 0.3 e nova mascote. O portfólio passou a apresentar os cinco produtos com casos individuais, ambientes e documentação.
+**Atualizações de 1º de outubro de 2026:** a central anteriormente chamada Axis passa a se chamar **Fluxion**. O produto que usava o nome Fluxion anteriormente foi aposentado e permanece apenas como legado histórico. **Axis fica reservado para um futuro CRM.** Aurion permanece como produto de arquitetura conversacional, ao lado de Vectta 2.0, Orbytta e chAI 0.3.
 
 A integração completa entre os produtos permanece uma evolução do ecossistema. WhatsApp/Blip e outros canais ainda não estão conectados ao chAI. As páginas apresentam as entregas documentadas; os produtos seguem em desenvolvimento.
 
