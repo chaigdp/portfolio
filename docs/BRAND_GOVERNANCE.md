@@ -26,11 +26,12 @@ Monograma institucional: **CH**
 
 ## Arquitetura de produtos
 - chAI: inteligência conversacional e disparos.
-- Axis: gestão central do ecossistema.
+- Fluxion: gestão central do ecossistema, nome atual da central anteriormente chamada Axis.
 - Aurion: arquitetura e desenho de jornadas conversacionais.
 - Vectta: implantação e onboarding.
 - Orbytta: operação e implementação de sistemas.
-- Fluxion: legado/retirado da apresentação pública em favor de Aurion.
+- Axis: nome reservado para o futuro CRM; não é um produto ativo neste momento.
+- Fluxion legado: produto conversacional anterior aposentado; seu histórico deve ser preservado sem confundi-lo com o Fluxion atual.
 
 ## Regras de migração
 1. Não renomear identificadores técnicos apenas por conterem nomes legados.
@@ -41,6 +42,12 @@ Monograma institucional: **CH**
 6. Toda alteração relevante deve ter commit descritivo e documentação correspondente.
 
 ## Versionamento da marca
+### 1.1 — 2026-10-01
+- Axis deixa de ser o nome da central e fica reservado para o futuro CRM.
+- Fluxion passa a nomear a central gerencial anteriormente chamada Axis.
+- O Fluxion anterior é classificado como legado aposentado.
+- Aurion permanece como arquitetura conversacional.
+
 ### 1.0 — 2026-10-01
 - chAI Conecta definida como identidade institucional atual.
 - `CH` definido como monograma.
