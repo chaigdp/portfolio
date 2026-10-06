@@ -1,58 +1,70 @@
-# chAI Conecta — Governança de Marca e Source of Truth
+# chAi | Governança de marca e arquitetura de produtos
 
-Versão: 1.0
-Status: marca institucional em definição
-Atualizado: 2026-10-01
+Versão: 2.0  
+Status: identidade ativa  
+Atualizado: 2026-10-06
 
 ## Fonte de verdade
-- Identidade visual editável: Figma, arquivo "chAI Conecta — Identidade Visual & Brand System" (Brand System completo pendente do limite MCP).
-- O ecossistema pode manter seus assets de produto. A área da marca institucional deve permanecer vazia até nova definição.
-- Documentação técnica: repositório GitHub de cada produto.
+
+- Marca institucional pública: **chAi**.
 - Portfólio público: `chaigdp/portfolio`.
-- Código dos produtos: privado por padrão. A adequação de visibilidade será executada na etapa final.
+- Repositórios de implementação: privados por padrão quando contêm código, arquitetura ou decisões internas.
+- Logos e ícones oficiais: arquivos vetoriais, preferencialmente SVG.
+- Demonstrações públicas: somente com dados fictícios.
 
 ## Identidade institucional
-Nome institucional: **em definição**
-Assinatura institucional: **em definição**
-Monograma institucional: **em definição**
 
-Até a nova marca ser definida, interfaces devem preservar o espaço visual reservado sem exibir nome, logotipo ou assinatura institucional.
+Nome institucional: **chAi**
+
+Assinatura: **Conversas que movem, relações que ficam.**
+
+A marca deve comunicar tecnologia moderna, inteligência aplicada, experiência e proximidade sem perder profissionalismo.
 
 ### Cores-base
+
 - Midnight: #080F25
-- Surface: #111A36
+- Deep Surface: #0C1427
 - Pearl: #F6F8FF
 - Cyan: #53CDFF
-- Violet: #A881CF
+- Violet: #8F7CFF
 - Pink: #F41E90
 
-## Arquitetura de produtos
-- chAI: inteligência conversacional e disparos.
-- Fluxion: gestão central do ecossistema, nome atual da central anteriormente chamada Axis.
-- Aurion: arquitetura e desenho de jornadas conversacionais.
-- Vectta: implantação e onboarding.
-- Orbytta: operação e implementação de sistemas.
-- Axis: nome reservado para o futuro CRM; não é um produto ativo neste momento.
-- Fluxion legado: produto conversacional anterior aposentado; seu histórico deve ser preservado sem confundi-lo com o Fluxion atual.
+## Arquitetura ativa de produtos
 
-## Regras de migração
-1. Não renomear identificadores técnicos apenas por conterem nomes legados.
-2. Manter aliases/rotas legadas quando necessários para compatibilidade.
-3. Usar `chai-conecta.svg` em novas implementações.
-4. Assets da marca institucional anterior devem ser removidos das interfaces e do portfólio ativo.
-5. Nunca armazenar senhas, tokens ou segredos em assets, documentação pública ou código versionado.
-6. Toda alteração relevante deve ter commit descritivo e documentação correspondente.
+- **chAI GO**: orquestração conversacional, mensageria, filas, operação e inteligência.
+- **Noryn**: CRM conversacional.
+- **chAI**: agente conversacional e camada de inteligência.
+- **Aurion**: arquitetura, simulação e melhoria de jornadas conversacionais.
+- **Vectta**: implantação e gestão de implementação.
+- **Orbytta**: administração e operação empresarial.
+- **Axis**: gestão dos projetos, ambientes e governança do ecossistema.
 
-## Versionamento da marca
-### 1.1 — 2026-10-01
-- Axis deixa de ser o nome da central e fica reservado para o futuro CRM.
-- Fluxion passa a nomear a central gerencial anteriormente chamada Axis.
-- O Fluxion anterior é classificado como legado aposentado.
-- Aurion permanece como arquitetura conversacional.
+## Nomes fora da arquitetura ativa
 
-### 1.0 — 2026-10-01
-- chAI Conecta definida como identidade institucional atual.
-- `CH` definido como monograma.
-- Criado asset vetorial canônico.
-- A marca institucional anterior foi descontinuada; o espaço visual fica reservado até a definição da nova marca.
-- Figma Brand System permanece pendente de conclusão visual.
+- **Fluxion**: não utilizar como produto ativo salvo nova decisão explícita.
+- **chAI Conecta**: identidade institucional antiga, não utilizar em novas interfaces ou materiais públicos.
+- **CelPhius Tecnologia**: identidade anterior, não utilizar no portfólio ativo.
+
+## Regras de marca
+
+1. Usar **chAi** exatamente nessa grafia para a marca institucional.
+2. Preservar a grafia específica dos produtos, como **chAI GO** e **chAI**.
+3. Usar somente logos oficiais em formato vetorial quando houver versão SVG.
+4. Não usar capturas de tela ou arquivos rasterizados como logo oficial.
+5. Não expor segredos, tokens, senhas, credenciais ou dados reais em documentação pública.
+6. Diferenciar claramente funcionalidade pronta, funcionalidade simulada e evolução planejada.
+7. Toda alteração estrutural importante deve ser refletida no portfólio e na documentação de arquitetura.
+
+## Histórico
+
+### 2.0 | 06/10/2026
+
+- chAi consolidada como marca institucional.
+- chAI GO e Noryn adicionados à arquitetura pública.
+- Axis reposicionado como gestão do ecossistema.
+- Fluxion removido da arquitetura ativa apresentada.
+- chAI Conecta e CelPhius removidos da identidade pública atual.
+
+### 1.x | legado
+
+Versões anteriores continham definições transitórias de nomes e arquitetura. Permanecem no histórico do Git para rastreabilidade, mas não devem orientar novas implementações.

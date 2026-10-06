@@ -1,13 +1,33 @@
-# Axis | Nome reservado para CRM
+# Axis | Gestão do ecossistema
 
 [Voltar ao portfólio](../README.md)
 
-Axis não identifica mais a central gerencial do ecossistema.
+![Axis](../assets/marcas/axis-ax.svg)
 
-Em **01/10/2026**, a central anteriormente chamada Axis passou a se chamar **Fluxion**.
+## Centralizar para enxergar melhor
 
-O nome **Axis** fica reservado para um futuro produto de CRM da chAI Conecta. Ainda não há uma versão ativa desse CRM apresentada neste portfólio.
+O Axis é a camada de gestão dos projetos e sistemas do ecossistema chAi.
 
-[Conheça o Fluxion](FLUXION.md)
+A proposta é reunir em um só lugar informações que normalmente ficam espalhadas entre links, documentos, ambientes, pendências e conversas.
 
-Atualizado em 01/10/2026.
+## Escopo
+
+- cadastro de projetos e sistemas;
+- links de ambientes e demonstrações;
+- acompanhamento de pendências;
+- organização de documentação e arquivos;
+- histórico de decisões e prompts;
+- visão executiva do estado de cada produto;
+- apoio à governança do ecossistema.
+
+## Papel no ecossistema
+
+Enquanto Vectta organiza implantações, Noryn organiza relacionamento, chAI GO organiza operação conversacional e Aurion organiza jornadas, o Axis funciona como uma visão central de gestão dos próprios produtos.
+
+O nome **Fluxion** não faz parte do ecossistema ativo atual.
+
+## Estado
+
+Produto em evolução. A documentação e a organização dos módulos seguem sendo refinadas conforme os demais sistemas avançam.
+
+Atualizado em **06/10/2026**.
