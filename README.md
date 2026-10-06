@@ -6,7 +6,7 @@ Sou **Chaiane de Paula**. Minha atuação une experiência do cliente, análise 
 
 Construo produtos a partir de problemas reais de operação. O objetivo não é apenas criar telas, mas transformar jornadas, regras, dados e decisões em soluções compreensíveis, verificáveis e evolutivas.
 
-**Portfólio visual:** [abrir versão em HTML](index.html)
+**Portfólio publicado:** [abrir site navegável](https://chaigdp.github.io/portfolio/)
 
 ## Projeto em destaque
 
