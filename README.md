@@ -1,76 +1,74 @@
-![Chaiane de Paula: experiência que aproxima, tecnologia que resolve](assets/capa-portfolio.svg)
+# Chai | Produto, IA e experiência
 
-# Oi, eu sou a Chai. Transformo necessidades em experiências e produtos.
+<img src="assets/mascote/chAI_Acenando.svg" alt="Mascote chAI acenando" width="180" align="right">
 
-Sou **Chaiane de Paula**, profissional com mais de dez anos de experiência em atendimento, suporte, implantação e experiência do cliente. Curso Gestão de TI e construo produtos que aproximam conversas, processos e tecnologia.
+Sou **Chaiane de Paula**. Minha atuação une experiência do cliente, análise conversacional, automação, implantação de sistemas, UX Writing e desenvolvimento com IA.
 
-Meu foco reúne **IA conversacional, escrita para interfaces, automação e implantação de sistemas**. Parto dos problemas da operação para desenhar jornadas, organizar requisitos e desenvolver soluções com apoio de IA, revisão e documentação.
+Construo produtos a partir de problemas reais de operação. O objetivo não é apenas criar telas, mas transformar jornadas, regras, dados e decisões em soluções compreensíveis, verificáveis e evolutivas.
 
-[Explore os cinco projetos](#meus-projetos) · [Minha forma de trabalhar](#como-eu-trabalho)
+**Portfólio visual:** [abrir versão em HTML](index.html)
 
-## chAI Conecta
+## Projeto em destaque
 
-<img src="assets/chai-conecta.svg" alt="chAI Conecta" width="460">
+### Vectta
 
-**O ponto onde seus projetos se encontram.**
+**Implantação sem achismo.**
 
-A chAI Conecta é a identidade do ecossistema que estou construindo. Fluxion é a central de gestão de sistemas, Aurion desenha e reformula jornadas conversacionais, Vectta orienta implantações, Orbytta conecta administração e operação, e chAI representa a inteligência conversacional.
+O Vectta é uma plataforma de gestão de implementação de sistemas. Organiza carteira de clientes, cronograma, riscos fundamentados, requisitos, testes, chamados, parametrizações, critérios de prontidão e indicadores de implantação.
+
+[Conhecer o Vectta](projetos/VECTTA.md) · [Abrir versão atual](https://pldxmxgrgyfwtnhxqaji.supabase.co/functions/v1/vectta)
+
+## Projetos em IA e conversação
+
+| Produto | Papel no ecossistema | Foco |
+| --- | --- | --- |
+| **chAI GO** | Orquestração conversacional | Mensageria, campanhas, fila, experiência, Copy Lab, operação e inteligência |
+| **Noryn** | CRM conversacional | Contatos, oportunidades, tarefas, histórico, automações e LGPD |
+| **chAI** | Agente conversacional | Conhecimento, contexto, atendimento humano, copiloto e fluxos |
+| **Aurion** | Arquitetura conversacional | Desenho, simulação, revisão e melhoria de jornadas |
+
+[Conhecer o chAI GO](projetos/CHAI-GO.md) · [Conhecer o Noryn](projetos/NORYN.md) · [Conhecer a chAI](projetos/CHAI.md) · [Conhecer o Aurion](projetos/AURION.md)
+
+## Outros produtos do ecossistema
+
+| Produto | Foco |
+| --- | --- |
+| **Orbytta** | Administração, operação empresarial, implantação e chamados |
+| **Axis** | Gestão de projetos, ambientes, links, decisões e acompanhamento do ecossistema |
+| **Vectta** | Implementação e entrada em operação |
+
+O nome **Fluxion** permanece fora do ecossistema ativo atual.
+
+## chAi
 
 **Conversas que movem, relações que ficam.**
 
-## Meus projetos
+A marca chAi conecta os produtos por uma mesma filosofia: tecnologia deve reduzir atrito, ampliar contexto e melhorar a experiência de quem usa e de quem opera.
 
-| Produto | O problema que resolve | Entrega atual | Conheça |
-| --- | --- | --- | --- |
-| **Fluxion** | Sistemas, links e pendências espalhados | Central de gestão de sistemas, ambientes, histórico, biblioteca e cofre cifrado | [Caso do projeto](projetos/FLUXION.md) |
-| **Aurion** | Fluxos conversacionais difíceis de desenhar, revisar e melhorar | Plataforma em construção para arquitetura, simulação e revisão de jornadas | [Caso do projeto](projetos/AURION.md) |
-| **Vectta 2.0** | Implantações sem clareza de riscos, critérios e entregas | Carteira de implantação, cronograma, requisitos, testes, prontidão e rentabilidade | [Caso do projeto](projetos/VECTTA.md) |
-| **Orbytta** | Administração e operação do cliente desconectadas | Administração, implantação, chamados e operação demonstrativa de estoque, vendas e financeiro | [Caso do projeto](projetos/ORBYTTA.md) |
-| **chAI 0.3** | Suporte sem continuidade e transição organizada para a equipe | Assistente web, central executiva, atendimento humano, conhecimento e construtor de fluxos | [Caso do projeto](projetos/CHAI.md) |
-
-### Demonstrações
-
-[Conheça o Vectta](https://vectta.chaianegdp.chatgpt.site) · [Demonstração do Orbytta](https://orbytta.chaianegdp.chatgpt.site/?demo=1)
-
-Os ambientes podem exigir autenticação. As demonstrações usam dados fictícios. Este portfólio apresenta os produtos e não distribui seu código-fonte.
-
-## Conheça a chAI
-
-![Nova identidade da mascote chAI](assets/chai-identidade.webp)
-
-**Inteligência que acolhe.** A chAI é o rosto da minha agente conversacional: curiosa, acolhedora e orientada a resolver problemas. Sua identidade combina branco perolado, azul-marinho, ciano, rosa e roxo.
-
-As quatro poses vetoriais estão [neste portfólio](assets/mascote): acenando, apresentando, pensando e celebrando. São adaptações ilustradas editáveis da referência visual aprovada.
-
-[Identidade e aplicação](docs/MASCOTE.md)
+A mascote chAI representa inteligência gentil, acessível e orientada a resolver problemas. As poses vetoriais oficiais estão em [assets/mascote](assets/mascote).
 
 ## Como eu trabalho
 
-1. **Entendo o problema.** Investigo a jornada, as dúvidas recorrentes e os pontos que impedem o cliente de avançar.
-2. **Organizo a experiência.** Desenho etapas, mensagens, critérios de conclusão e transição para atendimento humano.
-3. **Transformo em produto.** Estruturo requisitos e desenvolvo protótipos e aplicações com apoio de IA.
-4. **Verifico a entrega.** Reviso comportamentos, consistência dos dados, permissões e limites da solução.
-5. **Documento e evoluo.** Registro decisões, pendências e próximos passos para dar continuidade ao trabalho.
+1. **Investigo o problema:** operação, usuários, riscos, dependências e contexto.
+2. **Estruturo a solução:** requisitos, jornadas, mensagens, regras e critérios verificáveis.
+3. **Construo:** interface, serviços, dados, automações e documentação.
+4. **Audito:** segurança, experiência, consistência, permissões e limites.
+5. **Evoluo:** transformo validações e aprendizados em novas versões.
 
 ## O que este portfólio demonstra
 
-- **Visão de produto:** transformar necessidades operacionais em fluxos, requisitos e prioridades.
-- **Experiência conversacional:** clareza das mensagens, contexto, continuidade e atendimento humano.
-- **Implantação:** dependências, parametrização, testes e critérios de entrada em operação.
-- **Organização técnica:** interfaces, serviços, bancos de dados e documentação em projetos reais de desenvolvimento.
+- IA generativa aplicada a produto e operação.
+- Experiência conversacional e UX Writing.
+- Automação e desenho de fluxos.
+- Implantação e onboarding de sistemas.
+- Visão de produto e priorização.
+- Segurança, governança e documentação.
+- Desenvolvimento assistido por IA com revisão e critérios técnicos.
 
-Minha formação prática envolve programação, interfaces, serviços e bancos de dados. As páginas individuais apresentam os problemas, as entregas e o estado de cada projeto.
+## Estado dos projetos
 
-## Entregas e próximos passos
+Os produtos seguem em desenvolvimento e evolução contínua. Demonstrações utilizam dados fictícios. Repositórios de implementação podem permanecer privados para não expor código, credenciais, decisões internas ou ativos proprietários.
 
-**Atualizações de 1º de outubro de 2026:** o Fluxion original foi desativado e seu endereço antigo retirado do ar.  o sistema de gestão anteriormente chamado Axis passa a se chamar **Fluxion**. O produto antigo que usava o nome Fluxion foi aposentado e não faz parte do ecossistema ativo. **Axis fica reservado para um futuro CRM.** Aurion permanece como produto de arquitetura conversacional, ao lado de Vectta 2.0, Orbytta e chAI 0.3.
+[Identidade da mascote](docs/MASCOTE.md) · [Governança de marca](docs/BRAND_GOVERNANCE.md) · [Atualizações](docs/ATUALIZACOES.md)
 
-A integração completa entre os produtos permanece uma evolução do ecossistema. WhatsApp/Blip e outros canais ainda não estão conectados ao chAI. As páginas apresentam as entregas documentadas; os produtos seguem em desenvolvimento.
-
-Demonstrações usam dados fictícios. Credenciais pessoais, dados de clientes e links de administração internos não fazem parte deste portfólio.
-
-**Disponível para conversar sobre oportunidades em implantação, experiência do cliente, automação e IA conversacional.**
-
-[Guia de marca](docs/MARCA.md) · [Versão visual em HTML](index.html) · [Atualizações](docs/ATUALIZACOES.md)
-
-Atualizado em **1º de outubro de 2026**.
+Atualizado em **6 de outubro de 2026**.
