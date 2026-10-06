@@ -1,14 +1,35 @@
-# Identidade institucional | espaço reservado
+# chAi | Identidade institucional
 
-Status: **marca institucional em definição**
+Status: **ativa**  
+Atualizado: **06/10/2026**
 
-A marca institucional anterior foi descontinuada. Até a definição da nova identidade:
+## Nome
 
-- não exibir nome, logotipo, monograma ou assinatura institucional;
-- preservar nas interfaces o espaço visual destinado à futura marca;
-- manter Fluxion, Aurion, Vectta, Orbytta e chAI como nomes dos produtos;
-- manter Axis reservado para um produto futuro;
-- não renomear identificadores técnicos antigos quando a alteração puder quebrar autenticação, hospedagem, banco ou integrações;
-- novos materiais devem usar linguagem neutra ao mencionar a empresa ou administração.
+**chAi**
 
-O ecossistema e os produtos continuam ativos. Esta regra afeta apenas a identidade institucional.
+Usar exatamente essa grafia quando a referência for à marca institucional.
+
+Os produtos mantêm suas próprias grafias, como **chAI**, **chAI GO**, **Noryn**, **Vectta**, **Aurion**, **Axis** e **Orbytta**.
+
+## Assinatura
+
+**Conversas que movem, relações que ficam.**
+
+## Ideia central
+
+A chAi conecta produto, inteligência artificial, experiência conversacional e automação para criar tecnologia que melhora a operação sem perder o contexto humano.
+
+## Direção visual
+
+- fundo escuro em azul-marinho e preto;
+- luzes e gradientes em ciano, roxo e rosa;
+- tipografia limpa e forte;
+- composição minimalista;
+- logos oficiais em SVG;
+- mascote como elemento de identidade e orientação, não como decoração aleatória.
+
+## Identidades antigas
+
+As referências **chAI Conecta** e **CelPhius Tecnologia** são consideradas legadas no portfólio atual e não devem ser usadas em novos materiais públicos.
+
+Para regras completas, consulte [BRAND_GOVERNANCE.md](BRAND_GOVERNANCE.md).
