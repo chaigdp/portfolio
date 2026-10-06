@@ -2,11 +2,25 @@
 
 [Voltar ao portfólio](../README.md)
 
-![Identidade aprovada](../assets/chai-identidade.webp)
+![Identidade da mascote chAI](../assets/chai-identidade.webp)
 
-A mascote representa a agente conversacional da CelPhius Tecnologia. Seu tom é acolhedor, curioso, claro e resolutivo.
+A chAI é a mascote e agente do ecossistema chAi. Sua identidade representa tecnologia acessível, inteligência gentil, clareza e presença humana.
 
 **Conversas que movem, relações que ficam.**
+
+## Personalidade
+
+A mascote deve comunicar:
+
+- gentileza;
+- clareza;
+- curiosidade;
+- inteligência;
+- segurança;
+- elegância em situações de conflito;
+- capacidade de orientar sem infantilizar a experiência.
+
+## Paleta
 
 | Cor | Código | Aplicação |
 | --- | --- | --- |
@@ -17,12 +31,24 @@ A mascote representa a agente conversacional da CelPhius Tecnologia. Seu tom é 
 | Roxo | #7938E8 | Antena e detalhes |
 | Lavanda | #CCD0E8 | Sombras |
 
-## Poses editáveis
+## Poses vetoriais oficiais
 
 [Acenando](../assets/mascote/chAI_Acenando.svg) · [Apresentando](../assets/mascote/chAI_Apresentando.svg) · [Pensando](../assets/mascote/chAI_Pensando.svg) · [Celebrando](../assets/mascote/chAI_Celebrando.svg)
 
-Projeto editável mantido pela criadora.
+Os SVGs são os arquivos oficiais usados no portfólio. A referência rasterizada pode ser mantida como material visual, mas não substitui os vetores oficiais.
 
-Os vetores são reconstruções ilustradas com formas editáveis, adaptadas da imagem aprovada. A referência rasterizada mantém o acabamento tridimensional; não há um modelo 3D de origem. Para outra pose, duplique uma existente no Figma e ajuste os grupos de braços, pernas, cabeça e expressão.
+## Uso
 
-A mascote comunica identidade. Recursos e disponibilidade de atendimento são descritos no caso do produto.
+A mascote pode aparecer em:
+
+- orientação dentro dos sistemas;
+- mensagens de contexto;
+- apresentação de recursos;
+- estados vazios;
+- ajuda e suporte;
+- celebração de conclusão;
+- comunicação institucional do ecossistema.
+
+O uso deve ter função clara na experiência. Evitar excesso, infantilização ou uso puramente decorativo em telas densas.
+
+Atualizado em **06/10/2026**.
